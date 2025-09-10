@@ -188,7 +188,7 @@ background-image:url(../images/card-lot-03.jpg) ;
   gap: 25px;
   justify-items: center;
   padding-top: 2px;
-  margin: 0 24px 180px;
+  margin: 40px 24px 140px;
 }
 
 .about__logo {
@@ -234,6 +234,7 @@ font-size: 18px;
 line-height: 24.3px;
 letter-spacing: 0%;
 font-style: normal;
+margin-left: 50px;
 }
 .footer_menu-list {
   display: flex;
@@ -249,6 +250,7 @@ font-style: normal;
   justify-content: space-between;
   gap: 48px;
   list-style-type: none;
+  margin-right: 50px;
 }
 .footer_img {
 
